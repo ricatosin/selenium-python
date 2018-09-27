@@ -1,5 +1,5 @@
 # selenium-python
-Selenium Python Unittest using Python 3.4
+Selenium Python Unittest using Python 3.7
 
 ## Why I made this code?
 
