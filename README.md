@@ -77,7 +77,7 @@ That's enough, just run "python main.py"
 
 * Separate the Selenium code from the test code and organize the files and file names (something like buyproduct.py AND buyproduct_test.py)
 * Swap time.sleep () for an implicit wait
-* Review the code to remove redundances and unecessary actions
+* Review the code to remove redundances and unnecessary actions
 
 
 ## Built With
